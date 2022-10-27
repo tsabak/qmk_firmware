@@ -27,6 +27,8 @@
 /* DIP switch */
 #define DIP_SWITCH_MATRIX_GRID  { {5,4} }
 
+#define DYNAMIC_KEYMAP_LAYER_COUNT 5
+
 /* RGB Matrix Driver Configuration */
 #define DRIVER_COUNT 2
 #define DRIVER_ADDR_1 0b1110111
